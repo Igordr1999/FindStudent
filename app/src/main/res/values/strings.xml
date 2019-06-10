@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindStudent</string>
+    <string name="error_load">Unable to load data from server</string>
+    <string name="error_read">Unable to read data from server</string>
+    <string name="error_parse">Unable to parse data from server</string>
+</resources>

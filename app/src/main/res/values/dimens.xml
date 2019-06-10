@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="preview_image_size">64dp</dimen>
+    <dimen name="list_item_padding">8dp</dimen>
+    <dimen name="full_image_margin">10dp</dimen>
+</resources>
